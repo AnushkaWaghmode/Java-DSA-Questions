@@ -22,6 +22,6 @@
 - [x] Q5 - Remove Element
 - [x] Q6 - Move Zeroes
 - [x] Q7 - Squares of a Sorted Array
-- [ ] Q8 - Container With Most Water
-- [ ] Q9 - 3Sum
+- [X] Q8 - Container With Most Water
+- [X] Q9 - 3Sum
 - [ ] Q10 - Trapping Rain Water
