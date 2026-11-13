@@ -24,4 +24,4 @@
 - [x] Q7 - Squares of a Sorted Array
 - [X] Q8 - Container With Most Water
 - [X] Q9 - 3Sum
-- [ ] Q10 - Trapping Rain Water
+- [X] Q10 - Trapping Rain Water
