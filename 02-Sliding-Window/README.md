@@ -18,7 +18,7 @@
 
 ## Progress
 
-- ⬜ Q1 - Maximum Average Subarray I (LeetCode 643)
+- [x] Q1 - Maximum Average Subarray I (LeetCode 643)
 - ⬜ Q2 - Minimum Size Subarray Sum (LeetCode 209)
 - ⬜ Q3 - Longest Substring Without Repeating Characters (LeetCode 3)
 - ⬜ Q4 - Longest Repeating Character Replacement (LeetCode 424)
