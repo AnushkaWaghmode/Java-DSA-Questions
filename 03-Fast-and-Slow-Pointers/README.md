@@ -19,13 +19,13 @@
 
 ## Progress
 
-- [ ] Q1 - Linked List Cycle (LeetCode 141)
-- [ ] Q2 - Middle of the Linked List (LeetCode 876)
-- [ ] Q3 - Linked List Cycle II (LeetCode 142)
-- [ ] Q4 - Happy Number (LeetCode 202)
-- [ ] Q5 - Remove Nth Node From End of List (LeetCode 19)
-- [ ] Q6 - Palindrome Linked List (LeetCode 234)
-- [ ] Q7 - Reorder List (LeetCode 143)
+- [x] Q1 - Linked List Cycle (LeetCode 141)
+- [x] Q2 - Middle of the Linked List (LeetCode 876)
+- [x] Q3 - Linked List Cycle II (LeetCode 142)
+- [x] Q4 - Happy Number (LeetCode 202)
+- [x] Q5 - Remove Nth Node From End of List (LeetCode 19)
+- [x] Q6 - Palindrome Linked List (LeetCode 234)
+- [x] Q7 - Reorder List (LeetCode 143)
 - [ ] Q8 - Find the Duplicate Number (LeetCode 287)
 - [ ] Q9 - Circular Array Loop (LeetCode 457)
 - [ ] Q10 - Maximum Twin Sum of a Linked List (LeetCode 2130)
