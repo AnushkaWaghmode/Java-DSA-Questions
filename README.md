@@ -7,8 +7,8 @@ My Java DSA journey – 180 LeetCode problems across 18 patterns.
 | No. | Pattern | Questions | Status |
 |---|---|---:|---|
 | 01 | Two Pointers | 10 | Completed|
-| 02 | Sliding Window | 10 | In Progress |
-| 03 | Fast and Slow Pointers | 10 | Upcoming |
+| 02 | Sliding Window | 10 | Completed|
+| 03 | Fast and Slow Pointers | 10 |In Progress|
 | 04 | Merge Intervals | 10 | Upcoming |
 | 05 | Cyclic Sort | 10 | Upcoming |
 | 06 | In-place / Reverse Linked List | 10 | Upcoming |
